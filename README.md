@@ -17,6 +17,8 @@ https://your-app-link.streamlit.app
 - Matplotlib
 - Statsmodels
 - Streamlit
+- Joblib
+- Numpy
 
 ## 📁 Dataset
 Global confirmed cases dataset (CSV format)
